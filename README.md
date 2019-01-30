@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Please fasten your seatbelts and remain seated.
